@@ -18,4 +18,4 @@ npm install
 node app
 ```
 
-2. Navigate to (127.0.0.1:3000/todo) in a browser to view and interact with the app
+2. Navigate to 127.0.0.1:3000/todo in a browser to view and interact with the app
